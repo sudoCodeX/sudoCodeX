@@ -82,7 +82,5 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudocodemonk&show_icons=true&theme=nord&hide_border=true&count_private=true&line_height=25" alt="Sourabh's GitHub Stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudocodemonk&layout=compact&theme=nord&hide_border=true" alt="Sourabh's Top Languages" />
 </p>
