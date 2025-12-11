@@ -34,15 +34,3 @@
 | **Current Focus** | Architecting **AI-driven distributed systems** and cloud-first platforms. |
 | **Learning** | Deepening expertise in Generative AI, MLOps, and FinOps. |
 | **Open To** | Collaboration on innovative software, AI, and cloud projects. |
-
----
-
-
----
-
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudocodemonk&layout=compact&theme=nord&hide_border=true" alt="Sourabh's Top Languages" />
-</p>
