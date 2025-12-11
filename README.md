@@ -9,14 +9,15 @@
 ## 🔗 Connect with Me
 
 <p align="center">
+  <a href="https://sudocodex.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-10162F?style=for-the-badge&logo=laptop&logoColor=white" alt="Portfolio">
+  </a>
+  </br>
   <a href="https://calendly.com/sourabhbhardwaj727/ad-hoc-meeting" target="_blank">
     <img src="https://img.shields.io/badge/Schedule%20Meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule a Meeting via Calendly">
   </a>
   <a href="https://in.linkedin.com/in/bhardwj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://sudocodex.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10162F?style=for-the-badge&logo=laptop&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:sourabhbhardwaj727@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
