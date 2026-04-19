@@ -27,6 +27,7 @@ hr-rag-system/                      # pgvector · automated 60% of internal HR q
 oss-platform-golang/                # Go microservices · millions of contributors · Linux Foundation
 
 $ echo $CONTACT
-portfolio → sudocodex.github.io/portfolio
-linkedin  → linkedin.com/in/bhardwj
+portfolio → [sudocodex.github.io/portfolio](https://sudocodex.github.io/portfolio)
+
+linkedin  → [linkedin.com/in/bhardwj](https://in.linkedin.com/in/bhardwj)
 ```
